@@ -1,2 +1,2 @@
-Práctica de Terraform
-añadido un comentario
+Práctica de Terraform local
+añadido un comentario local
