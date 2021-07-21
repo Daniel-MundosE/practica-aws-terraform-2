@@ -1,2 +1,2 @@
-Práctica de Terraform
-añadido un comentario
+Práctica de Terraform con diferencias
+añadido un comentario con conflictos
