@@ -1,2 +1,2 @@
-Práctica de Terraform local
-añadido un comentario local
+Práctica de Terraform con diferencias
+añadido un comentario con conflictos
